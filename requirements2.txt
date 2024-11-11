@@ -1,0 +1,23 @@
+# 基础深度学习框架
+torch>=2.1.2
+torchvision>=0.16.0
+
+# 核心依赖
+transformers>=4.37.0
+xformers>=0.0.24
+SwissArmyTransformer>=0.4.8
+
+# 数据处理和可视化
+pillow>=10.0.1
+spacy==3.6.0
+seaborn>=0.13.0
+einops==0.6.1
+
+# 模型和训练相关
+deepspeed==0.10.0
+timm>=0.9.12
+
+# API和工具
+pydantic==1.10.12
+paddleocr==2.6.0.1
+gradio==3.50.2

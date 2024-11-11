@@ -14,3 +14,1595 @@ Traceback (most recent call last):
   File "/usr/lib/python3.10/posixpath.py", line 103, in split
     p = os.fspath(p)
 TypeError: expected str, bytes or os.PathLike object, not NoneType
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+python: can't open file '/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/cogcom/data/ann_visual2.py': [Errno 2] No such file or directory
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from .paddleocr import *
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+    from tools.infer import predict_system
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from tools.infer import predict_system
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+Traceback (most recent call last):
+ModuleNotFoundError: No module named 'tools.infer'
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from tools.infer import predict_system
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+ModuleNotFoundError: No module named 'tools.infer'
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+ModuleNotFoundError: No module named 'tools.infer'
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from tools.infer import predict_system
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+Traceback (most recent call last):
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 9, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from paddleocr import PaddleOCR
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+ModuleNotFoundError: No module named 'tools.infer'
+    from paddleocr import PaddleOCR
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from .paddleocr import *
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from .paddleocr import *
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+ModuleNotFoundError: No module named 'tools.infer'
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 939, in read_text
+    return self._path.joinpath(filename).read_text(encoding='utf-8')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/pathlib.py", line 1058, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/referencing-0.35.1.dist-info/entry_points.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual2.py", line 8, in <module>
+    from tools.groundingdino import GroundingDINO, find_noun_phrases
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/tools/groundingdino.py", line 6, in <module>
+    import torch
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/torch/__init__.py", line 2665, in <module>
+    _import_device_backends()
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/torch/__init__.py", line 2632, in _import_device_backends
+    backend_extensions = entry_points(group=group_name)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 1041, in entry_points
+    return SelectableGroups.load(eps).select(**params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 476, in load
+    ordered = sorted(eps, key=by_group)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 1039, in <genexpr>
+    dist.entry_points for dist in _unique(distributions())
+    ^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 636, in entry_points
+    return EntryPoints._from_text_for(self.read_text('entry_points.txt'), self)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/importlib/metadata/__init__.py", line 932, in read_text
+    with suppress(
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/contextlib.py", line 446, in __exit__
+    def __exit__(self, exctype, excinst, exctb):
+
+KeyboardInterrupt
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
+/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/timm/models/layers/__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "/mnt/petrelfs/lixiangtian/workspace/CogCoM/cogcom/data/ann_visual.py", line 38, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "/mnt/petrelfs/lixiangtian/miniconda3/envs/cogcom/lib/python3.11/site-packages/paddleocr/paddleocr.py", line 34, in <module>
+    from tools.infer import predict_system
+ModuleNotFoundError: No module named 'tools.infer'
