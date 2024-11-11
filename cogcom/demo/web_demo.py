@@ -216,7 +216,8 @@ def main(args):
 
 
     # demo.queue(concurrency_count=10)
-    demo.launch(server_port=7190)
+    # demo.launch(server_port=7190)
+    demo.launch(server_name=args.server_name, server_port=args.server_port)
 
 
 if __name__ == '__main__':
@@ -233,6 +234,8 @@ if __name__ == '__main__':
     parser.add_argument("--fp16", action="store_true")
     parser.add_argument("--bf16", action="store_true")
     parser.add_argument("--stream_chat", action="store_true")
+    parser.add_argument("--server_name", type=str, default="0.0.0.0")
+    parser.add_argument("--server_port", type=int, default=10010)
     args = parser.parse_args()
     rank = int(os.environ.get('RANK', 0))
     world_size = int(os.environ.get('WORLD_SIZE', 1))
