@@ -127,27 +127,31 @@ def process(img, processor):
 
 
 def parse_response(img, response, img_processor, output_name='output.png'):
+    print("\n=== Parsing Visual Grounding ===")
+    print(f"Input response: {response}")
+    
     if type(img_processor.args[0]) is int:
-        new_img, new_size, _ = process(img, img_processor) # new_size: (h, w)
+        print(f"Using image processor with patch size: {img_processor.args[0]}")
+        new_img, new_size, _ = process(img, img_processor)
     else:
+        print("Using default image processor")
         img = img.convert('RGB')
-        # width, height = img.size
-        # ratio = min(1920 / width, 1080 / height)
-        # new_width = int(width * ratio)
-        # new_height = int(height * ratio)
-        # new_img = img.resize((new_width, new_height), Image.LANCZOS)
-        # new_img = img.resize((224, 224))
         new_img = img.resize((490, 490))
         new_size = new_img.size
+    
     pattern = r"\[\[(.*?)\]\]"
     positions = re.findall(pattern, response)
+    print(f"Found bounding box positions: {positions}")
+    
     boxes = [[[int(y) for y in x.split(',')] for x in pos.split(';') if x.replace(',', '').isdigit()] for pos in positions]
-    # visualize(new_img, boxes, scale=14)
+    print(f"Parsed boxes: {boxes}")
+    
     if type(img_processor.args[0]) is int:
+        print(f"Drawing boxes with size: {new_size[1]*14}x{new_size[0]*14}")
         drawn_img = vis_prop(new_img, boxes, new_size[1]*14, new_size[0]*14, file_name='output.png')
     else:
-        # vis_prop(new_img, boxes, 224, 224, file_name='output.png')
-        # vis_prop(new_img, boxes, 224, 224, file_name=output_name)
+        print("Drawing boxes with size: 490x490")
         drawn_img = vis_prop(new_img, boxes, 490, 490, file_name=output_name)
-    # visualize(img, [], scale=1, file_name='output_origin.png')
+    
+    print(f"Saved visualization to: {output_name}")
     return drawn_img
