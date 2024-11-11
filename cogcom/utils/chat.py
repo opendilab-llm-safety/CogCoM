@@ -158,15 +158,25 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
         max_length: int = 1024, top_p=0.7, top_k=30, temperature=0.95, repetition_penalty=1.2,
         invalid_slices=[], no_prompt=False, add_preprompt=False, parse_result=False
         ):
+    print("\n====== Chat Session Start ======")
+    print(f"Query: {query}")
+    print(f"History: {history}")
+    print(f"Image path: {image_path}")
+    
     if add_preprompt:
         query = start_prompts[0].format(QUESTION=query)
+        print(f"Preprompt added. New query: {query}")
+    
     init_query = query
     turns_mems, turns_mems_mask = None, None
     ret_response, ret_history, ret_imgs = [],  [], []
     turns = 0
     while True: # multi-turn
+        print(f"\n----- Turn {turns} -----")
         if turns > 0:
             query = HARD_PROMPT
+            print(f"Follow-up query: {query}")
+        
         is_image_mode = image_path or (type(image) is not tuple and image is not None) or (type(image) is tuple and image != (None, None, None))
         if not history:
             history = []
@@ -253,17 +263,19 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
 
         response = text_processor.tokenizer.decode(output_list[0])
         response = response.split(text_processor.sep)[-1].strip()
-        # if hasattr(text_processor, 'process_response'):
-        #     response = text_processor.process_response(response)
-        # response = response.split(text_processor.sep)[-1].strip()
-        # history = history + [(query, response)]
-
+        print(f"Raw model response: {response}")
+        
         drawn_img = None
         if parse_result:
-            from grounding_parser import parse_response
+            print("Parsing response for visual grounding...")
             drawn_img = parse_response(pil_img, response, img_processor if img_processor is not None else cross_img_processor, output_name=f"output_turn{turns}.png")
+            print(f"Visual grounding result saved to: output_turn{turns}.png")
 
         response, query, image, done = text_processor.process_response(response, pil_img) # handle manipulations
+        print(f"Processed response: {response}")
+        print(f"Next query: {query}")
+        print(f"Done: {done}")
+        
         ret_response.append(response)
         ret_history.append(response)
         ret_imgs.append((torch_image, pil_img, cross_image, drawn_img))
@@ -273,6 +285,6 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
 
     ret_response = ' '.join(ret_response)
     ret_response = ret_response[len(init_query):].strip()
-    # return ret_response, ret_history, ret_imgs
+    print("\n====== Chat Session End ======")
     return ret_response, ret_history, ret_imgs[-1]
 

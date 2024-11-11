@@ -96,17 +96,23 @@ def post(
         hidden_image,
         state
         ):
+    print("\n====== Web Demo Request ======")
+    print(f"Input text: {input_text}")
+    print(f"Temperature: {temperature}")
+    print(f"Top_p: {top_p}")
+    print(f"Top_k: {top_k}")
+    print(f"Image prompt: {image_prompt}")
+    
     result_text = [(ele[0], ele[1]) for ele in result_previous]
-    for i in range(len(result_text)-1, -1, -1):
-        if result_text[i][0] == "" or result_text[i][0] == None:
-            del result_text[i]
-    print(f"history {result_text}")
+    print(f"Previous conversation: {result_text}")
     
     global model, image_processor, cross_image_processor, text_processor_infer, is_grounding
 
     try:
         with torch.no_grad():
             pil_img, image_path_grounding = process_image_without_resize(image_prompt)
+            print(f"Processed image path: {image_path_grounding}")
+            
             response, history, ret_imgs = chat(
                 image_path="", 
                 model=model, 
@@ -123,8 +129,12 @@ def post(
                 invalid_slices=text_processor_infer.invalid_slices if hasattr(text_processor_infer, "invalid_slices") else [],
                 parse_result=True
             )
+            print(f"Model response: {response}")
+            print(f"Updated history: {history}")
+            if ret_imgs[-1] is not None:
+                print("Generated visualization image")
     except Exception as e:
-        print("error message", e)
+        print(f"Error occurred: {e}")
         result_text.append((input_text, 'Timeout! Please wait a few minutes and retry.'))
         return "", result_text, hidden_image
 
