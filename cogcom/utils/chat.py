@@ -172,47 +172,43 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
     turns_mems, turns_mems_mask = None, None
     ret_response, ret_history, ret_imgs = [],  [], []
     turns = 0
+    
     while True: # multi-turn
         print(f"\n----- Turn {turns} -----")
-        
-        # 打印完整的输入提示词
-        print(f"Full prompt:")
-        print("="*50)
-        print(prompt)
-        print("="*50)
         
         if turns > 0:
             query = HARD_PROMPT
             print(f"Follow-up query: {query}")
         
+        # 构建prompt
         is_image_mode = image_path or (type(image) is not tuple and image is not None) or (type(image) is tuple and image != (None, None, None))
         if not history:
             history = []
+            
         if is_image_mode:
             prompt = "{}{}{}".format(text_processor.tokenizer.boi, image_path if image_path else "", text_processor.tokenizer.eoi)
         else:
             prompt = ""
-        if not is_image_mode or not no_prompt:
-            # prompt += text_processor.history_to_prompt(history, query)
-            prompt += text_processor.history_to_prompt(history=None, query=query)
-        prompt, image_position, (torch_image, pil_img, cross_image) = process_image(prompt, text_processor, img_processor, cross_img_processor, image=image)
-        if torch_image is not None:
-            assert type(torch_image) is dict and type(cross_image) is dict
-            if type(torch_image) is dict:
-                for k in torch_image:
-                    if type(torch_image[k]) is torch.Tensor and torch_image[k].dtype is not torch.int and torch_image[k].dtype is not torch.long:
-                        torch_image[k] = torch_image[k].to(next(model.parameters()).dtype)
-                    if type(torch_image[k]) is torch.Tensor:
-                        torch_image[k] = torch_image[k].to(next(model.parameters()).device)
-            else:
-                torch_image = torch_image.to(next(model.parameters()).dtype).to(next(model.parameters()).device)
             
-            for k in cross_image:
-                if type(cross_image[k]) is torch.Tensor and cross_image[k].dtype is not torch.int and cross_image[k].dtype is not torch.long:
-                    cross_image[k] = cross_image[k].to(next(model.parameters()).dtype)
-                if type(cross_image[k]) is torch.Tensor:
-                    cross_image[k] = cross_image[k].to(next(model.parameters()).device)
+        if not is_image_mode or not no_prompt:
+            prompt += text_processor.history_to_prompt(history=None, query=query)
+            
+        # 打印完整的输入提示词
+        print(f"\nFull prompt:")
+        print("="*50)
+        print(prompt)
+        print("="*50)
         
+        # 处理图像
+        prompt, image_position, (torch_image, pil_img, cross_image) = process_image(prompt, text_processor, img_processor, cross_img_processor, image=image)
+        
+        # 打印模型输入信息
+        print("\nModel inputs:")
+        print(f"Processed prompt: {prompt}")
+        print(f"Image position: {image_position}")
+        if torch_image is not None:
+            print("Image features included")
+            
         if image_position < 5: # no image
             inputs = text_processor.tokenizer([prompt], return_tensors="pt").to(model.parameters().__next__().device)['input_ids'][0]
             # pre_image = 0
