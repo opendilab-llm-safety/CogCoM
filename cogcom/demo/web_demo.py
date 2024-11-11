@@ -27,9 +27,10 @@ from utils import get_image_processor, llama2_tokenizer, llama2_text_processor_i
 
 
 
-DESCRIPTION = '''<h1 style='text-align: center'> <a href="https://github.com/THUDM/CogCoM">CogCoM</a> </h1>'''
+DESCRIPTION = '''<h1 style='text-align: center'> <a href="https://github.com/THUDM/CogCoM">多模态推理</a> </h1>'''
 
-NOTES = '<h3> This app is adapted from <a href="https://github.com/THUDM/CogCoM">https://github.com/THUDM/CogCoM</a>. It would be recommended to check out the repo if you want to see the detail of our model, CogCoM. </h3>'
+# NOTES = '<h3> This app is adapted from <a href="https://github.com/THUDM/CogCoM">https://github.com/THUDM/CogCoM</a>. It would be recommended to check out the repo if you want to see the detail of our model, CogCoM. </h3>'
+NOTES = '<h3> 多模态推理与工具调用，测试版 </h3>'
 
 MAINTENANCE_NOTICE1 = 'Hint 1: If the app report "Something went wrong, connection error out", please turn off your proxy and retry.<br>Hint 2: If you upload a large size of image like 10MB, it may take some time to upload and process. Please be patient and wait.'
 
