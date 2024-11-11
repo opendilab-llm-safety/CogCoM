@@ -48,8 +48,10 @@ model = image_processor = text_processor_infer = None
 is_grounding = False
 
 def process_image_without_resize(image_prompt):
+    # 确保examples目录存在
+    os.makedirs("examples", exist_ok=True)
+    
     image = Image.open(image_prompt)
-    # print(f"height:{image.height}, width:{image.width}")
     timestamp = int(time.time())
     file_ext = os.path.splitext(image_prompt)[1]
     filename_grounding = f"examples/{timestamp}_grounding{file_ext}"
@@ -129,30 +131,24 @@ def post(
                 invalid_slices=text_processor_infer.invalid_slices if hasattr(text_processor_infer, "invalid_slices") else [],
                 parse_result=True
             )
+            
             print(f"Model response: {response}")
             print(f"Updated history: {history}")
+            
+            drawn_imgs = []
             if ret_imgs[-1] is not None:
                 print("Generated visualization image")
+                drawn_imgs = [ret_imgs[-1]] if ret_imgs[-1] is not None else []
+            
+            result_text.append((input_text, response))
+            return "", result_text, hidden_image, drawn_imgs
+            
     except Exception as e:
         print(f"Error occurred: {e}")
-        result_text.append((input_text, 'Timeout! Please wait a few minutes and retry.'))
-        return "", result_text, hidden_image
-
-    answer = response
-    drawn_imgs = []
-    # if is_grounding:
-        # parse_response(pil_img, answer, image_path_grounding)
-        # new_answer = answer.replace(input_text, "")
-        # result_text.append((input_text, answer))
-        # result_text.append((None, (image_path_grounding,)))
-    # drawn_imgs = [(im[-1], f'trun-{i}') for i,im in enumerate(ret_imgs) if im[-1] is not None]
-    drawn_imgs = [ret_imgs[-1]] if ret_imgs[-1] is not None else []
-
-    # else:
-    result_text.append((input_text, answer))
-    print(result_text)
-    print('finished')
-    return "", result_text, hidden_image, drawn_imgs
+        import traceback
+        traceback.print_exc()  # 打印完整的错误堆栈
+        result_text.append((input_text, f'Error: {str(e)}. Please try again.'))
+        return "", result_text, hidden_image, []  # 确保返回4个值
 
 
 def clear_fn(value):

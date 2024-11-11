@@ -15,6 +15,7 @@ import torch
 from sat.generation.autoregressive_sampling import BaseStrategy, get_masks_and_position_ids_default
 from .com_utils import HARD_PROMPT
 from models.com_memory import update_mems
+from .grounding_parser import parse_response
 
 
 
