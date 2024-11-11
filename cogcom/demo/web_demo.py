@@ -217,7 +217,7 @@ def main(args):
 
     # demo.queue(concurrency_count=10)
     # demo.launch(server_port=7190)
-    demo.launch(server_name=args.server_name, server_port=args.server_port)
+    demo.launch(server_name=args.server_name, server_port=args.server_port, share=True)
 
 
 if __name__ == '__main__':
