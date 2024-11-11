@@ -174,6 +174,13 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
     turns = 0
     while True: # multi-turn
         print(f"\n----- Turn {turns} -----")
+        
+        # 打印完整的输入提示词
+        print(f"Full prompt:")
+        print("="*50)
+        print(prompt)
+        print("="*50)
+        
         if turns > 0:
             query = HARD_PROMPT
             print(f"Follow-up query: {query}")

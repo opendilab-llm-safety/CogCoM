@@ -96,17 +96,18 @@ def manipulate_image(pil_image, func, param, unrefine=True) -> Image:
 
 def manipulate_image(manipulation, image):
     print(f"\n=== Executing Manipulation: {manipulation} ===")
+    print(f"Input image size: {image.size}")
     
     if manipulation.startswith('GROUNDING'):
-        print("Calling GroundingDINO for object detection...")
+        print(f"Grounding target: {manipulation}")
         boxes = grounding_dino.predict(...)
-        print(f"GroundingDINO returned boxes: {boxes}")
+        print(f"Detected boxes: {boxes}")
         return boxes
         
     elif manipulation.startswith('OCR'):
-        print("Calling PaddleOCR for text recognition...")
+        print(f"OCR region: {manipulation}")
         result = ocr_tool.ocr(...)
-        print(f"OCR returned text: {result}")
+        print(f"Recognized text: {result}")
         return result
         
     elif manipulation.startswith('CROP_AND_ZOOMIN'):
