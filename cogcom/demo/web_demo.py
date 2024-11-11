@@ -113,6 +113,8 @@ def post(
 
     try:
         with torch.no_grad():
+            # 将图像处理移到GPU上
+            device = next(model.parameters()).device
             pil_img, image_path_grounding = process_image_without_resize(image_prompt)
             print(f"Processed image path: {image_path_grounding}")
             
@@ -130,7 +132,8 @@ def post(
                 temperature=temperature,
                 top_k=top_k,
                 invalid_slices=text_processor_infer.invalid_slices if hasattr(text_processor_infer, "invalid_slices") else [],
-                parse_result=True
+                parse_result=True,
+                device=device  # 传入设备参数
             )
             
             print(f"Model response: {response}")

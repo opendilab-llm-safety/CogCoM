@@ -157,12 +157,16 @@ from .com_dataset import start_prompts
 def chat(image_path, model, text_processor, img_processor, cross_img_processor,
         query: str, history: List[Tuple[str, str]] = None, image: Image = None,
         max_length: int = 1024, top_p=0.7, top_k=30, temperature=0.95, repetition_penalty=1.2,
-        invalid_slices=[], no_prompt=False, add_preprompt=False, parse_result=False
+        invalid_slices=[], no_prompt=False, add_preprompt=False, parse_result=False,
+        device=None
         ):
     print("\n====== Chat Session Start ======")
     print(f"Query: {query}")
     print(f"History: {history}")
     print(f"Image path: {image_path}")
+    
+    if device is None:
+        device = next(model.parameters()).device
     
     if add_preprompt:
         query = start_prompts[0].format(QUESTION=query)
@@ -226,7 +230,7 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
             # pre_image = inputs_dic['pre_image']
         
         seq = torch.cat(
-            [inputs, torch.tensor([-1]*(max_length-len(inputs)), device=inputs.device)], dim=0
+            [inputs, torch.tensor([-1]*(max_length-len(inputs)), device=device)], dim=0
         )
         strategy = BaseStrategy(temperature=temperature, top_p=top_p, top_k=top_k, end_tokens=[text_processor.tokenizer.eos_token_id],
                                 invalid_slices=invalid_slices, repetition_penalty=repetition_penalty)
@@ -234,10 +238,9 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
         if image_position < 5:
             inputs = {}
         else:
-            inputs = {**{'vision_'+k:v for k,v in torch_image.items()}, **{'cross_'+k:v for k,v in cross_image.items()}}
+            inputs = {**{'vision_'+k:v.to(device) for k,v in torch_image.items()}, **{'cross_'+k:v.to(device) for k,v in cross_image.items()}}
             inputs_dic.pop('input_ids')
-            inputs = {**inputs, **inputs_dic}
-            # inputs = {'vision_image': torch_image} if type(torch_image) is not dict else {'vision_'+k:v for k,v in torch_image.items()}
+            inputs = {**inputs, **{k:v.to(device) if isinstance(v, torch.Tensor) else v for k,v in inputs_dic.items()}}
         # try:
         
         (output, turns_mems), turns_mems_mask = filling_sequence(
