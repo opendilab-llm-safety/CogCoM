@@ -27,9 +27,9 @@ from utils import get_image_processor, llama2_tokenizer, llama2_text_processor_i
 
 
 
-DESCRIPTION = '''<h1 style='text-align: center'> <a 多模态图像多步推理 </a> </h1>'''
+DESCRIPTION = '''<h1 style='text-align: center'> 多模态图像多步推理 </h1>'''
 
-NOTES = '<h3> 当前不支持多轮对话 </h3>'
+NOTES = '<h3 style="text-align: center"> 当前不支持多图 </h3>'
 
 MAINTENANCE_NOTICE1 = 'Hint 1: If the app report "Something went wrong, connection error out", please turn off your proxy and retry.<br>Hint 2: If you upload a large size of image like 10MB, it may take some time to upload and process. Please be patient and wait.'
 
