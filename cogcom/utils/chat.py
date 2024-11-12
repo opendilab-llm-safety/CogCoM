@@ -15,7 +15,6 @@ import torch
 from sat.generation.autoregressive_sampling import BaseStrategy, get_masks_and_position_ids_default
 from .com_utils import HARD_PROMPT
 from models.com_memory import update_mems
-from .grounding_parser import parse_response
 
 
 
@@ -157,62 +156,45 @@ from .com_dataset import start_prompts
 def chat(image_path, model, text_processor, img_processor, cross_img_processor,
         query: str, history: List[Tuple[str, str]] = None, image: Image = None,
         max_length: int = 1024, top_p=0.7, top_k=30, temperature=0.95, repetition_penalty=1.2,
-        invalid_slices=[], no_prompt=False, add_preprompt=False, parse_result=False,
-        device=None
+        invalid_slices=[], no_prompt=False, add_preprompt=False, parse_result=False
         ):
-    print("\n====== Chat Session Start ======")
-    print(f"Query: {query}")
-    print(f"History: {history}")
-    print(f"Image path: {image_path}")
-    
-    if device is None:
-        device = next(model.parameters()).device
-    
     if add_preprompt:
         query = start_prompts[0].format(QUESTION=query)
-        print(f"Preprompt added. New query: {query}")
-    
     init_query = query
     turns_mems, turns_mems_mask = None, None
     ret_response, ret_history, ret_imgs = [],  [], []
     turns = 0
-    
     while True: # multi-turn
-        print(f"\n----- Turn {turns} -----")
-        
         if turns > 0:
             query = HARD_PROMPT
-            print(f"Follow-up query: {query}")
-        
-        # 构建prompt
         is_image_mode = image_path or (type(image) is not tuple and image is not None) or (type(image) is tuple and image != (None, None, None))
         if not history:
             history = []
-            
         if is_image_mode:
             prompt = "{}{}{}".format(text_processor.tokenizer.boi, image_path if image_path else "", text_processor.tokenizer.eoi)
         else:
             prompt = ""
-            
         if not is_image_mode or not no_prompt:
+            # prompt += text_processor.history_to_prompt(history, query)
             prompt += text_processor.history_to_prompt(history=None, query=query)
-            
-        # 打印完整的输入提示词
-        print(f"\nFull prompt:")
-        print("="*50)
-        print(prompt)
-        print("="*50)
-        
-        # 处理图像
         prompt, image_position, (torch_image, pil_img, cross_image) = process_image(prompt, text_processor, img_processor, cross_img_processor, image=image)
-        
-        # 打印模型输入信息
-        print("\nModel inputs:")
-        print(f"Processed prompt: {prompt}")
-        print(f"Image position: {image_position}")
         if torch_image is not None:
-            print("Image features included")
+            assert type(torch_image) is dict and type(cross_image) is dict
+            if type(torch_image) is dict:
+                for k in torch_image:
+                    if type(torch_image[k]) is torch.Tensor and torch_image[k].dtype is not torch.int and torch_image[k].dtype is not torch.long:
+                        torch_image[k] = torch_image[k].to(next(model.parameters()).dtype)
+                    if type(torch_image[k]) is torch.Tensor:
+                        torch_image[k] = torch_image[k].to(next(model.parameters()).device)
+            else:
+                torch_image = torch_image.to(next(model.parameters()).dtype).to(next(model.parameters()).device)
             
+            for k in cross_image:
+                if type(cross_image[k]) is torch.Tensor and cross_image[k].dtype is not torch.int and cross_image[k].dtype is not torch.long:
+                    cross_image[k] = cross_image[k].to(next(model.parameters()).dtype)
+                if type(cross_image[k]) is torch.Tensor:
+                    cross_image[k] = cross_image[k].to(next(model.parameters()).device)
+        
         if image_position < 5: # no image
             inputs = text_processor.tokenizer([prompt], return_tensors="pt").to(model.parameters().__next__().device)['input_ids'][0]
             # pre_image = 0
@@ -230,7 +212,7 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
             # pre_image = inputs_dic['pre_image']
         
         seq = torch.cat(
-            [inputs, torch.tensor([-1]*(max_length-len(inputs)), device=device)], dim=0
+            [inputs, torch.tensor([-1]*(max_length-len(inputs)), device=inputs.device)], dim=0
         )
         strategy = BaseStrategy(temperature=temperature, top_p=top_p, top_k=top_k, end_tokens=[text_processor.tokenizer.eos_token_id],
                                 invalid_slices=invalid_slices, repetition_penalty=repetition_penalty)
@@ -238,9 +220,10 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
         if image_position < 5:
             inputs = {}
         else:
-            inputs = {**{'vision_'+k:v.to(device) for k,v in torch_image.items()}, **{'cross_'+k:v.to(device) for k,v in cross_image.items()}}
+            inputs = {**{'vision_'+k:v for k,v in torch_image.items()}, **{'cross_'+k:v for k,v in cross_image.items()}}
             inputs_dic.pop('input_ids')
-            inputs = {**inputs, **{k:v.to(device) if isinstance(v, torch.Tensor) else v for k,v in inputs_dic.items()}}
+            inputs = {**inputs, **inputs_dic}
+            # inputs = {'vision_image': torch_image} if type(torch_image) is not dict else {'vision_'+k:v for k,v in torch_image.items()}
         # try:
         
         (output, turns_mems), turns_mems_mask = filling_sequence(
@@ -270,19 +253,17 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
 
         response = text_processor.tokenizer.decode(output_list[0])
         response = response.split(text_processor.sep)[-1].strip()
-        print(f"Raw model response: {response}")
-        
+        # if hasattr(text_processor, 'process_response'):
+        #     response = text_processor.process_response(response)
+        # response = response.split(text_processor.sep)[-1].strip()
+        # history = history + [(query, response)]
+
         drawn_img = None
         if parse_result:
-            print("Parsing response for visual grounding...")
+            from grounding_parser import parse_response
             drawn_img = parse_response(pil_img, response, img_processor if img_processor is not None else cross_img_processor, output_name=f"output_turn{turns}.png")
-            print(f"Visual grounding result saved to: output_turn{turns}.png")
 
         response, query, image, done = text_processor.process_response(response, pil_img) # handle manipulations
-        print(f"Processed response: {response}")
-        print(f"Next query: {query}")
-        print(f"Done: {done}")
-        
         ret_response.append(response)
         ret_history.append(response)
         ret_imgs.append((torch_image, pil_img, cross_image, drawn_img))
@@ -292,6 +273,6 @@ def chat(image_path, model, text_processor, img_processor, cross_img_processor,
 
     ret_response = ' '.join(ret_response)
     ret_response = ret_response[len(init_query):].strip()
-    print("\n====== Chat Session End ======")
+    # return ret_response, ret_history, ret_imgs
     return ret_response, ret_history, ret_imgs[-1]
 

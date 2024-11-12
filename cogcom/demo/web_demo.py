@@ -27,10 +27,9 @@ from utils import get_image_processor, llama2_tokenizer, llama2_text_processor_i
 
 
 
-DESCRIPTION = '''<h1 style='text-align: center'> <a href="https://github.com/THUDM/CogCoM">多模态推理</a> </h1>'''
+DESCRIPTION = '''<h1 style='text-align: center'> <a 多模态图像多步推理 </a> </h1>'''
 
-# NOTES = '<h3> This app is adapted from <a href="https://github.com/THUDM/CogCoM">https://github.com/THUDM/CogCoM</a>. It would be recommended to check out the repo if you want to see the detail of our model, CogCoM. </h3>'
-NOTES = '<h3> 多模态推理与工具调用，测试版 </h3>'
+NOTES = '<h3> 当前不支持多轮对话 </h3>'
 
 MAINTENANCE_NOTICE1 = 'Hint 1: If the app report "Something went wrong, connection error out", please turn off your proxy and retry.<br>Hint 2: If you upload a large size of image like 10MB, it may take some time to upload and process. Please be patient and wait.'
 
@@ -49,10 +48,8 @@ model = image_processor = text_processor_infer = None
 is_grounding = False
 
 def process_image_without_resize(image_prompt):
-    # 确保examples目录存在
-    os.makedirs("examples", exist_ok=True)
-    
     image = Image.open(image_prompt)
+    # print(f"height:{image.height}, width:{image.width}")
     timestamp = int(time.time())
     file_ext = os.path.splitext(image_prompt)[1]
     filename_grounding = f"examples/{timestamp}_grounding{file_ext}"
@@ -99,25 +96,17 @@ def post(
         hidden_image,
         state
         ):
-    print("\n====== Web Demo Request ======")
-    print(f"Input text: {input_text}")
-    print(f"Temperature: {temperature}")
-    print(f"Top_p: {top_p}")
-    print(f"Top_k: {top_k}")
-    print(f"Image prompt: {image_prompt}")
-    
     result_text = [(ele[0], ele[1]) for ele in result_previous]
-    print(f"Previous conversation: {result_text}")
+    for i in range(len(result_text)-1, -1, -1):
+        if result_text[i][0] == "" or result_text[i][0] == None:
+            del result_text[i]
+    print(f"history {result_text}")
     
     global model, image_processor, cross_image_processor, text_processor_infer, is_grounding
 
     try:
         with torch.no_grad():
-            # 将图像处理移到GPU上
-            device = next(model.parameters()).device
             pil_img, image_path_grounding = process_image_without_resize(image_prompt)
-            print(f"Processed image path: {image_path_grounding}")
-            
             response, history, ret_imgs = chat(
                 image_path="", 
                 model=model, 
@@ -132,27 +121,28 @@ def post(
                 temperature=temperature,
                 top_k=top_k,
                 invalid_slices=text_processor_infer.invalid_slices if hasattr(text_processor_infer, "invalid_slices") else [],
-                parse_result=True,
-                device=device  # 传入设备参数
+                parse_result=True
             )
-            
-            print(f"Model response: {response}")
-            print(f"Updated history: {history}")
-            
-            drawn_imgs = []
-            if ret_imgs[-1] is not None:
-                print("Generated visualization image")
-                drawn_imgs = [ret_imgs[-1]] if ret_imgs[-1] is not None else []
-            
-            result_text.append((input_text, response))
-            return "", result_text, hidden_image, drawn_imgs
-            
     except Exception as e:
-        print(f"Error occurred: {e}")
-        import traceback
-        traceback.print_exc()  # 打印完整的错误堆栈
-        result_text.append((input_text, f'Error: {str(e)}. Please try again.'))
-        return "", result_text, hidden_image, []  # 确保返回4个值
+        print("error message", e)
+        result_text.append((input_text, 'Timeout! Please wait a few minutes and retry.'))
+        return "", result_text, hidden_image
+
+    answer = response
+    drawn_imgs = []
+    # if is_grounding:
+        # parse_response(pil_img, answer, image_path_grounding)
+        # new_answer = answer.replace(input_text, "")
+        # result_text.append((input_text, answer))
+        # result_text.append((None, (image_path_grounding,)))
+    # drawn_imgs = [(im[-1], f'trun-{i}') for i,im in enumerate(ret_imgs) if im[-1] is not None]
+    drawn_imgs = [ret_imgs[-1]] if ret_imgs[-1] is not None else []
+
+    # else:
+    result_text.append((input_text, answer))
+    print(result_text)
+    print('finished')
+    return "", result_text, hidden_image, drawn_imgs
 
 
 def clear_fn(value):
@@ -216,7 +206,6 @@ def main(args):
 
 
     # demo.queue(concurrency_count=10)
-    # demo.launch(server_port=7190)
     demo.launch(server_name=args.server_name, server_port=args.server_port, share=True)
 
 

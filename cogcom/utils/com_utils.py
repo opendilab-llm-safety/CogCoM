@@ -93,28 +93,3 @@ def manipulate_image(pil_image, func, param, unrefine=True) -> Image:
         print(f'Failed to manipulate image with func: {func}, param: {param}')
     print(f'Manipulating image from original size of {pil_image.size} to new size {new_img.size} ...')
     return new_img
-
-def manipulate_image(manipulation, image):
-    print(f"\n=== Executing Manipulation: {manipulation} ===")
-    print(f"Input image size: {image.size}")
-    
-    if manipulation.startswith('GROUNDING'):
-        print(f"Grounding target: {manipulation}")
-        boxes = grounding_dino.predict(...)
-        print(f"Detected boxes: {boxes}")
-        return boxes
-        
-    elif manipulation.startswith('OCR'):
-        print(f"OCR region: {manipulation}")
-        result = ocr_tool.ocr(...)
-        print(f"Recognized text: {result}")
-        return result
-        
-    elif manipulation.startswith('CROP_AND_ZOOMIN'):
-        print("Performing image crop and zoom...")
-        cropped = image.crop(...)
-        zoomed = cropped.resize(...)
-        print(f"Generated new image size: {zoomed.size}")
-        return zoomed
-        
-    print("=== Manipulation Complete ===")
